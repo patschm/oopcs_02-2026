@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EigenTypes/EigenTypes.csproj" />
+  <Project Path="ObjectenWereld/ObjectenWereld.csproj" />
+</Solution>
