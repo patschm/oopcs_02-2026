@@ -50,7 +50,7 @@ internal class Program
         Stopwatch watch = new Stopwatch();
         watch.Start();
         //string data = "";
-        StringBuilder data = new StringBuilder(1000000);
+        StringBuilder data = new StringBuilder();
 
         for(int i = 0; i < 1000_000; i++)
         {
