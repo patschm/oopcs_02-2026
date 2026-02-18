@@ -31,7 +31,6 @@ class Lamp
     // Auto generating property. Genereert zijn eigen private field
     public ConsoleColor Kleur { get; set; } = ConsoleColor.Gray;
 
-
     public int Intensiteit
     {
         get

@@ -8,7 +8,7 @@
 //   and assigns it to the array of LingoCharacters (internalWord)
 public class LingoWord
 {
-    public readonly LingoCharacter[] internalWord;
+    public  LingoCharacter[] internalWord;
 
     public void Show()
     {

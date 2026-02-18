@@ -80,6 +80,7 @@ class Program
     {
         Random rnd = new Random((int)DateTime.Now.Ticks);
         int idx = rnd.Next(0, wordlist.Length);
-        return new LingoWord(wordlist[idx]);
+        string word = wordlist[idx];    
+        return new LingoWord(word);
     }
 }

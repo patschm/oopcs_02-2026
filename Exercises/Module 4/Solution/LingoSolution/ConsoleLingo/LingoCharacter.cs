@@ -22,23 +22,23 @@ public class LingoCharacter
     // TODO 1: Make sure that this character field only contains lowercase characters.
     // Refactor the code
     // Hint: Check char's members (char.)
-    private LowercaseChar character;
+    private char character;
     // TODO 2: Make sure that position  cannot be less than 0
     private int position;
 
-    public LowercaseChar Character {get; set;}
-    
-    // public char Character
-    // {
-    //     get
-    //     {
-    //         return character;
-    //     }
-    //     set
-    //     {
-    //         character = char.ToLower(value);
-    //     }
-    // }
+    // public LowercaseChar Character {get; set;}
+
+    public char Character
+    {
+        get
+        {
+            return character;
+        }
+        set
+        {
+            character = char.ToLower(value);
+        }
+    }
 
     public int Position
     {

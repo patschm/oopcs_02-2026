@@ -45,5 +45,10 @@ internal class Program
         Console.WriteLine("De wallen");
         l5.Uit();
 
+
+        int[] nummers = new int[10];
+        Lamp[] lampen = new Lamp[10];
+        List<Lamp> list = new List<Lamp>();
+
     }
 }
