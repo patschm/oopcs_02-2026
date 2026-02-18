@@ -1,6 +1,6 @@
 ﻿namespace NogMeerLampen;
 
-// Sealed. Kan n iet meer van deze class erfen.
+// Sealed. Kan niet meer van deze class erfen.
 sealed class DimLicht : Lamp
 {
     public void Dim(int amount)
