@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="NogEenDan/NogEenDan.csproj" />
+  <Project Path="Swapper/Swapper.csproj" />
+</Solution>

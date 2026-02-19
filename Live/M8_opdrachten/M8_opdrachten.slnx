@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="DeOpdracht/DeOpdracht.csproj" />
+  <Project Path="EvolutieTheorieDerDelegates/EvolutieTheorieDerDelegates.csproj" Id="c11bbdf9-e6de-4bbd-acaa-cf1f0c8ba403" />
   <Project Path="Grafisch/Grafisch.csproj" />
   <Project Path="HetCern/HetCern.csproj" />
   <Project Path="RadioStation/RadioStation.csproj" />
