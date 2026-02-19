@@ -1,4 +1,7 @@
 <Solution>
   <Project Path="DeOpdracht/DeOpdracht.csproj" />
+  <Project Path="Grafisch/Grafisch.csproj" />
   <Project Path="HetCern/HetCern.csproj" />
+  <Project Path="RadioStation/RadioStation.csproj" />
+  <Project Path="WinFormsApp1/WinFormsApp1.csproj" />
 </Solution>
