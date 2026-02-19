@@ -1,7 +1,8 @@
 ﻿
 namespace NogEenDan;
 
-internal class Point
+//internal class Point
+internal struct Point
 {
     public int X { get; set; }
     public int Y { get; set; }
