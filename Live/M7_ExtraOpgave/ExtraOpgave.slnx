@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="AddisAbaba/AddisAbaba.csproj" />
+  <Project Path="DoomsdayPreppers/DoomsdayPreppers.csproj" />
+  <Project Path="Heras/Heras.csproj" />
+  <Project Path="Logitech/Logitech.csproj" />
+  <Project Path="Oprijlaan/Oprijlaan.csproj" />
+  <Project Path="Sick/Sick.csproj" />
+  <Project Path="Standaarden/Standaarden.csproj" Id="5e845017-3b6c-49d0-a35b-cb594819f657" />
+</Solution>
