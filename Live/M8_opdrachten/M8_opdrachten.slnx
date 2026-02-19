@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DeOpdracht/DeOpdracht.csproj" />
+  <Project Path="HetCern/HetCern.csproj" />
+</Solution>
